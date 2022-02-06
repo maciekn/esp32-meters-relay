@@ -1,0 +1,6 @@
+#include <Arduino.h>
+const char *host = "thermo-gateway";
+const char* ssid = "wifi";
+const char* password =  "pass";
+const char* mqttServer = "localhost";
+int mqttPort = 37181;
